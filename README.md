@@ -20,7 +20,7 @@ Heroku | Express.js | Node.js | MongoDB | Mongoose | JavaScript | JQuery | Boots
 
 ## Live Demo
 
-The demo of the application can be found [here](https://blooming-reef-13214.herokuapp.com/).
+The demo of the application can be found [here](https://sleepy-everglades-74491.herokuapp.com/).
 
 ## Directions
 
