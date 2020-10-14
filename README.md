@@ -36,5 +36,6 @@ Now, open the local application on port 8080 at the URL: `http://localhost:8000/
 
 
 ## Screenshots
+![Screen Shot 2020-10-14 at 3 21 44 PM 3](https://user-images.githubusercontent.com/64044377/96041230-1a28cd00-0e31-11eb-8708-22b135541764.png)
 
 
